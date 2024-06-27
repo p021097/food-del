@@ -11,7 +11,7 @@ const StoreContextProvider = (props) => {
 
 
 // Other Variables Declared
-  const url = "http://localhost:4000"
+  const url = "https://food-del-backend-nspa.onrender.com"
   const [token, setToken] = useState("")
 
 
